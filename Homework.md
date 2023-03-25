@@ -18,6 +18,7 @@
 >![скрин 3](ScreenShorts/Screenshot_3.png)
 >![скрин 4](ScreenShorts/Screenshot_4.png)
 >![скрин 5](ScreenShorts/Screenshot_5.png)
+>
 > git log --oneline - (отобразятся эти 3 комита) - скрин забыл прикрепить
 
 <br>
